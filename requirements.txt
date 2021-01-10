@@ -4,4 +4,3 @@ pandas==1.1.5
 yfinance==0.1.55
 requests==2.25.1
 ta==0.7.0
-buildpack
